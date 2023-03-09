@@ -1,7 +1,8 @@
-print("/n"+"Brian Winson Jo")
+print("="*50)
+print("Brian Winson Jo")
 print("I0322025")
 
-print("="*20)
+print("="*50)
 
 print("""
     Perkenalkan nama saya Brian Winson Jo, NIM I0322025, mahasiswa Teknik Industri UNS angkatan 2022. Saya berasal dari Kota Bogor dengan alamat Komplek Pakuan, Tajur
